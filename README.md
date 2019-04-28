@@ -15,6 +15,7 @@ you can visit this GitHub project (https://github.com/facebook/create-react-app)
 3. Run `npm run start`
 
 
-
+### Browser Internet Connection
+https://tokopedia-test-assesment.herokuapp.com/
 
 
