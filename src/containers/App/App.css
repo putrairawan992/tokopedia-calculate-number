@@ -1,0 +1,15 @@
+#denomination-form {
+    margin: 2vw 0 1vw 0;
+}
+
+.btn-rand-generate {
+    margin-left: 1vw !important;
+}
+
+.suggestion-label-wrapper {
+    margin: 0 !important;
+}
+
+.field > .error input {
+    border: 1px solid #db2828 !important;
+}
